@@ -9,10 +9,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/ironnicko/count.svg)
 
 Languages and Tools:<br />
-![React](https://img.shields.io/badge/React-blue?logo=react)
+![React](https://img.shields.io/badge/React-black?logo=react)
 ![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
-![Zustand](https://img.shields.io/badge/Zustand-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-blue?logo=vite)
+![Zustand](https://img.shields.io/badge/Zustand-black?logo=react)
+![Vite](https://img.shields.io/badge/Vite-black?logo=vite)
 ![Go](https://img.shields.io/badge/Go-black?logo=go)
 ![Fiber](https://img.shields.io/badge/Fiber-black?logo=go)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
