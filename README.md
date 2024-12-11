@@ -8,12 +8,27 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/ironnicko/count.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/favicon/favicon.ico" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev" target="_blank" rel="roreferrer"> <img src="https://reactnative.dev/img/favicon.ico" height="40" width="40" alt="reactnative"/></a>
-</p>
+Languages and Tools:<br />
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
+![Zustand](https://img.shields.io/badge/Zustand-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-blue?logo=vite)
+![Go](https://img.shields.io/badge/Go-black?logo=go)
+![Fiber](https://img.shields.io/badge/Fiber-black?logo=go)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Django](https://img.shields.io/badge/Django-black?logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazon)
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-black?logo=firebase)
+![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
+![C](https://img.shields.io/badge/C-black?logo=c)
+![C++](https://img.shields.io/badge/C++-black?logo=c++)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ironnicko&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="ironnicko" /></p>
 
