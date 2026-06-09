@@ -11,7 +11,7 @@
   ### 📊 GitHub Stats
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ironnicko&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="ironnicko" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ironnicko&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="ironnicko" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironnicko&theme=dark&hide_border=true" alt="ironnicko streak" />
   </p>
 </div>
